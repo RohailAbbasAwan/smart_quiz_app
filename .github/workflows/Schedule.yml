@@ -1,4 +1,4 @@
-name: Push and PR Event
+name: schedule
 on:
   push:
     branches:

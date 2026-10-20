@@ -1,4 +1,4 @@
-name: Push and PR Event
+name: webhook
 on:
   push:
     branches:

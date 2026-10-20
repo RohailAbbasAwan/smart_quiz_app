@@ -1,4 +1,4 @@
-name: Push and PR Event
+name: manual
 on:
   push:
     branches:
