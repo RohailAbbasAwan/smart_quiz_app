@@ -2,7 +2,7 @@ name: Push and PR Event
 on:
   push:
     branches:
-      - main
+      - master
       - dev
   pull_request:
     branches:
